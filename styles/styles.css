@@ -382,7 +382,7 @@ header div {
   margin-bottom: 10px;
 }
 header div h1 {
-  color: yellow;
+  color: black;
   margin: 0;
   font-size: 20pt;
   font-family: "Open Sans", sans-serif;
@@ -440,7 +440,13 @@ hr {
 }
 
 div.hero {
-  width: 100%;
+  width: auto;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#imghero {
+  width: auto;
   height: auto;
 }
 
